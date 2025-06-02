@@ -1,0 +1,15 @@
+rich
+bitsandbytes 
+datasets
+accelerate
+loralib
+transformers
+datasets
+peft
+accelerate
+trl
+safetensors
+torch
+sentencepiece
+gradio
+protobuf
